@@ -1,3 +1,5 @@
 This is a sample file for download
 
 This is another commit
+
+This is for both add and commit
